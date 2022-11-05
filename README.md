@@ -41,23 +41,27 @@ Ubuntu Terminal
 
 Implementation Screenshots:
 
+![1](https://user-images.githubusercontent.com/83694163/200113509-df37039d-fb7a-4cac-95f1-99560c7677eb.png)
 
+![2](https://user-images.githubusercontent.com/83694163/200113511-dd3bf6dd-e836-4e30-9579-c42f0db4b0cb.png)
 
+![3](https://user-images.githubusercontent.com/83694163/200113516-9b0d2bc7-dddc-47da-821c-5ebe60be6aae.png)
 
+![4](https://user-images.githubusercontent.com/83694163/200113523-c0b33f08-ba75-489d-a3e4-038a31808fd0.png)
 
+![5](https://user-images.githubusercontent.com/83694163/200113535-4fe5ac69-8326-439f-ac0d-5f65b61ae2b7.png)
 
-![11](https://user-images.githubusercontent.com/83694163/200113439-eb97f35c-543a-4015-9fae-77825c0090ee.png)
+![6](https://user-images.githubusercontent.com/83694163/200113537-ea555b07-7192-4390-b752-aea30380501d.png)
 
+![7](https://user-images.githubusercontent.com/83694163/200113540-1af5de0c-5774-4f78-95d0-2be3e2c90fb5.png)
 
+![8](https://user-images.githubusercontent.com/83694163/200113546-936e57ae-f879-4781-8312-7b5d7fea1c6b.png)
 
+![9](https://user-images.githubusercontent.com/83694163/200113549-e8d26968-2511-4b4d-9e84-088f973c7954.png)
 
+![10](https://user-images.githubusercontent.com/83694163/200113550-7117667d-b920-4240-9191-0c9a9eb244af.png)
 
-
-
-
-
-
-
+![11](https://user-images.githubusercontent.com/83694163/200113553-82c7f76c-d732-45eb-ab67-82a4a2219e89.png)
 
 
 
